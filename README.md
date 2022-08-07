@@ -10,3 +10,7 @@
 * How the backpropagationalgorithm works
 * Improving the way neural networks learn
 * A visual proof that neural nets can compute any function
+* Learned Pytorch and implemented VGGnet paper from scratch
+* Read about Convolutional Neural Networks and Generative Adversarial Networks
+* Implemented DCGAN paper from scratch
+* Implemented CartoonGAN
